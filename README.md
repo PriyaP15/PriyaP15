@@ -12,7 +12,7 @@
 </p>
 
 ## Lets Connect 🤝
-[![skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/priya-parthasarthi-a5429b257)
+[![skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/priya-parthasarthi-a5429b257)
 [![skills](https://skillicons.dev/icons?i=github)](https://github.com/Shankar20052005)
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/just_kira_07/)
 

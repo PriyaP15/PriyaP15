@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Priya</h1>
-<h2 align="center">Computer Engineer</h2>
-<h3 align="center">Competitive Programmer 👨‍💻 | Front-end Web Developer 💻</h3>
+<h2 align="center">Future Python Prodigy 🐍</h2>
+<h3 align="center">Pre-final Year Student & Code Enthusiast</h3>
 
 ## Tech Stack ✔️
 <p>

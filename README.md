@@ -15,6 +15,7 @@
 [![skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/priya-parthasarthi-a5429b257)
 [![skills](https://skillicons.dev/icons?i=github)]((https://github.com/PriyaP15))
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com)
+[![skills](https://skillicons.dev/icons?i=vscode)](https://www.instagram.com)
 
 <!--
 **PriyaP15/PriyaP15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

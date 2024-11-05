@@ -11,18 +11,13 @@
   </a>
 </p>
 
-## Coding Profile 👨‍💻
-Profile: k.s.shankar2005 <br>
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=k.s.shankar2005)](https://codeforces.com/profile/k.s.shankar2005)
-
 ## Lets Connect 🤝
 [![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/k-s-shankar-169a17259)
 [![skills](https://skillicons.dev/icons?i=github)](https://github.com/Shankar20052005)
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/just_kira_07/)
-[![skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/crisis07./)
 
 <!--
-**Shankar20052005/Shankar20052005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PriyaP15/PriyaP15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

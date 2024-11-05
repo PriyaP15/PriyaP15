@@ -1,15 +1,13 @@
 <h1 align="center">Hey there, I'm Priya</h1>
-<h2 align="center">✨Future Python Prodigy 🐍</h2>
+<h2 align="center">✨ Future Python Prodigy 🐍</h2>
 <h3 align="center">Pre-final Year Student 🎓 | Code Enthusiast 💻</h3>
 
 ## Tech Stack ✔️
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,js" /><br>
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,opencv,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=selenium,codepen" />
+    <img src="https://skillicons.dev/icons?i=python,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql" /><br>
   </a>
 </p>
 

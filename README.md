@@ -6,8 +6,8 @@
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql" /><br>
   </a>
 </p>
 
